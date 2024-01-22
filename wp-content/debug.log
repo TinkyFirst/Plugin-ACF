@@ -5,3 +5,40 @@
 [21-Jan-2024 16:19:58 UTC] PHP Parse error:  syntax error, unexpected identifier "єкти", expecting "," or ";" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tested-plugin/plugini.php on line 140
 [21-Jan-2024 16:21:18 UTC] PHP Parse error:  syntax error, unexpected identifier "єкти", expecting "," or ";" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tested-plugin/plugini.php on line 140
 [21-Jan-2024 16:22:00 UTC] PHP Parse error:  syntax error, unexpected identifier "єкти", expecting "," or ";" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tested-plugin/plugini.php on line 140
+[21-Jan-2024 16:25:19 UTC] PHP Parse error:  syntax error, unexpected identifier "єкти", expecting "," or ";" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/plugins/tplugin/plugin.php on line 140
+[21-Jan-2024 17:37:51 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/header.php on line 217
+[21-Jan-2024 17:44:02 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/header.php on line 125
+[21-Jan-2024 17:53:11 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/index.php on line 182
+[21-Jan-2024 18:04:46 UTC] PHP Parse error:  syntax error, unexpected token "<", expecting end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 167
+[21-Jan-2024 18:14:17 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/page.php:8
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(19): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/page.php on line 8
+[21-Jan-2024 18:14:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function alert() in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/page.php:63
+Stack trace:
+#0 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/template-loader.php(106): include()
+#1 /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-blog-header.php(19): require_once('/Applications/X...')
+#2 /Applications/XAMPP/xamppfiles/htdocs/wordpress/index.php(17): require('/Applications/X...')
+#3 {main}
+  thrown in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/page.php on line 63
+[21-Jan-2024 18:46:19 UTC] PHP Fatal error:  Cannot redeclare real_estate_filter_form_shortcode() (previously declared in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php:168) in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 209
+[21-Jan-2024 18:46:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 367
+[21-Jan-2024 18:46:19 UTC] PHP Warning:  Trying to access array offset on value of type bool in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-includes/class-wp-recovery-mode-email-service.php on line 368
+[21-Jan-2024 18:46:43 UTC] PHP Parse error:  syntax error, unexpected identifier "real_estate_filter_form_shortcode" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 167
+[21-Jan-2024 18:46:47 UTC] PHP Parse error:  syntax error, unexpected identifier "real_estate_filter_form_shortcode" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 167
+[21-Jan-2024 18:46:50 UTC] PHP Parse error:  syntax error, unexpected identifier "real_estate_filter_form_shortcode" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 167
+[21-Jan-2024 18:46:51 UTC] PHP Parse error:  syntax error, unexpected identifier "real_estate_filter_form_shortcode" in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 167
+[21-Jan-2024 19:02:07 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 282
+[21-Jan-2024 19:02:23 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 282
+[21-Jan-2024 19:12:09 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 282
+[22-Jan-2024 16:32:09 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 282
+[22-Jan-2024 16:35:53 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 278
+[22-Jan-2024 16:36:20 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 278
+[22-Jan-2024 16:38:19 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 278
+[22-Jan-2024 16:38:31 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 278
+[22-Jan-2024 16:38:42 UTC] PHP Warning:  foreach() argument must be of type array|object, string given in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 278
+[22-Jan-2024 16:39:12 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 304
+[22-Jan-2024 16:39:33 UTC] PHP Parse error:  syntax error, unexpected token "else", expecting end of file in /Applications/XAMPP/xamppfiles/htdocs/wordpress/wp-content/themes/neve/functions.php on line 305

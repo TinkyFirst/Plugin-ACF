@@ -4,11 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="251c4678-199b-4cf8-821b-ae756584d81d" name="Changes" comment="Statrtup wordpress">
-      <change afterPath="$PROJECT_DIR$/wp-content/debug.log" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wp-content/themes/plugin.php" afterDir="false" />
+    <list default="true" id="251c4678-199b-4cf8-821b-ae756584d81d" name="Changes" comment="fix issues">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/wp-config.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-config.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/debug.log" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentytwo/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/wp-content/themes/twentytwentytwo/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentytwo/templates/home.html" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/wp-content/themes/twentytwentytwo/templates/index.html" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,19 +41,19 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "main",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -64,8 +65,18 @@
       <workItem from="1705851713462" duration="216000" />
       <workItem from="1705851937135" duration="45000" />
       <workItem from="1705851991429" duration="118000" />
-      <workItem from="1705852128159" duration="1662000" />
+      <workItem from="1705852128159" duration="2003000" />
+      <workItem from="1705860608748" duration="9000" />
     </task>
+    <task id="LOCAL-00001" summary="fix issues">
+      <option name="closed" value="true" />
+      <created>1705854309036</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1705854309036</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -84,6 +95,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Statrtup wordpress" />
-    <option name="LAST_COMMIT_MESSAGE" value="Statrtup wordpress" />
+    <MESSAGE value="fix issues" />
+    <option name="LAST_COMMIT_MESSAGE" value="fix issues" />
   </component>
 </project>
